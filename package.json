@@ -1,12 +1,12 @@
 {
   "name": "angular-ui-bootstrap",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bootstrap widgets for Angular",
   "main": "index.js",
   "homepage": "http://angular-ui.github.io/bootstrap/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/bootstrap.git"
+    "url": "https://github.com/luber/bootstrap.git"
   },
   "keywords": [
     "angular",
